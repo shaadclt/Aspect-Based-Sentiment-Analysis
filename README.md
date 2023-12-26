@@ -1,5 +1,7 @@
 # Aspect-Based Sentiment Analysis with PyABSA
 
+![absa](https://github.com/shaadclt/Aspect-Based-Sentiment-Analysis/assets/98437584/a4397b5c-307e-42c4-a178-f70f177cbb3f)
+
 ## Overview
 
 This project demonstrates Aspect-Based Sentiment Analysis (ABSA) using PyABSA, a library for aspect-based sentiment analysis. The application allows users to input a sentence, and it extracts aspects, predicts sentiment, and displays the results in a tabular form.
